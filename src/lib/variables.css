@@ -1,0 +1,13 @@
+:root {
+  /* Colors */
+  --white: #f1f2ed;
+  --brand: rgb(110, 186, 208);
+  --dark-accent: rgb(239, 181, 46);
+  /* 282e38 */
+  --dark-shades: rgb(40, 46, 56);
+  --grey: rgb(200, 200, 200);
+  --danger: rgb(160, 12, 12);
+  --warning: rgb(239, 152, 46);
+  --success: rgb(44, 164, 44);
+  --info: rgba(10, 124, 250);
+}
